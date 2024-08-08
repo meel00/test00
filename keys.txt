@@ -1,0 +1,3 @@
+key1:d3c2e124c4be4f7fab1fe1a0d2abd837
+key2:53ef9f5cb5704cfa900850338cac42e1
+end-point: https://meel-hli.openai.azure.com/
